@@ -2,5 +2,8 @@
   "dependencies": {
     "three": "^0.142.0"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
